@@ -8,11 +8,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
-      - name: Run a multi-line script
+      - name: Run alert script
         run: |
           ./cowin-vaccine-alerter.sh
           sleep 30
           ./cowin-vaccine-alerter.sh
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          COWIN_API_BASE_URL: ${{ secrets.COWIN_API_BASE_URL }}
+          COWIN_AUTHORIZATION_TOKEN: ${{ secrets.COWIN_AUTHORIZATION_TOKEN }}
+          ORGIN_URL: ${{ secrets.ORGIN_URL }}
+          USER_AGENT_HEADER: ${{ secrets.USER_AGENT_HEADER }}
+          TELEGRAM_BOT_CHAT_ID: ${{ secrets.TELEGRAM_BOT_CHAT_ID }}
