@@ -1,4 +1,4 @@
-# cowin-vaccine-alerter
+# Co-WIN Vaccine alerter
 
 This project is a telgram bot which alerts when vaccination slot is available.
 
