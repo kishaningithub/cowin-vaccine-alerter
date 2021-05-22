@@ -88,3 +88,6 @@ $RECYCLE.BIN/
 # Generated files in the project
 *.json
 *.txt
+
+# Local env
+.envrc
