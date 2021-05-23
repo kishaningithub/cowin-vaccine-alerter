@@ -3,7 +3,7 @@
 Below is a list of [telegram](https://telegram.org/) groups which you can choose to receive real time slot availability alerts based on your location preferences.
 
 
-Location                  | Telegram group link
+Location                  | Telegram group
 ------------------------- | ----------------------------------------
 Tamil Nadu / Chennai      | [Join group](https://t.me/joinchat/sew-FrT6W9U0NDhl)
 Tamil Nadu / Tiruvallur   | [Join group](https://t.me/joinchat/y2RY9Zbv1DE4MWI1)
