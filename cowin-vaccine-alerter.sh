@@ -5,6 +5,7 @@ set -e
 poll_cowin_and_send_alert() {
   district_id="$1"
   chat_id="$2"
+  echo "Searching slot availability for district id ${district_id}"
   rm -f ./*.json
   rm -f ./*.txt
   current_date=$(TZ=Asia/Kolkata date +"%d-%m-%Y")
@@ -27,6 +28,7 @@ do
   poll_cowin_and_send_alert 565 -540515683
   # Tamil Nadu / Kanchipuram
   poll_cowin_and_send_alert 557 -519869836
+  echo "Beginning sleep for ${sleep_time} seconds"
   sleep ${sleep_time}
   attempt_counter=$((attempt_counter+1))
 done
