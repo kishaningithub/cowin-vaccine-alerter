@@ -19,6 +19,8 @@ poll_cowin_and_send_alert() {
   else
     echo "$result" | xargs -I {} curl --retry 3 -fLG "https://api.telegram.org/${TELEGRAM_BOT_TOKEN}/sendMessage" -H 'Connection: keep-alive' --data-urlencode "chat_id=${chat_id}" --data-urlencode "text={}"
   fi
+  echo "Sleeping for 1 second to prevent telegram rate limiting"
+  sleep 1
 }
 
 max_attempts=1000
