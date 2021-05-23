@@ -10,7 +10,7 @@ Reference - https://apisetu.gov.in/public/marketplace/api/cowin/cowin-public-v2
 - [x] Alerts for 18+ for Chennai,Tamilnadu - https://t.me/joinchat/sew-FrT6W9U0NDhl
 
 ## Look ahead
-The expansion will be based on the interest this project generates over time. Curr
+The expansion will be based on the interest this project generates over time.
 
 # Development
 * Install [direnv](https://direnv.net/)
