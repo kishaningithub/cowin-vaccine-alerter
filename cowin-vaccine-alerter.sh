@@ -21,7 +21,7 @@ poll_cowin_and_send_alert() {
   fi
 }
 
-max_attempts=500
+max_attempts=1000
 sleep_time=30
 attempt_counter=0
 while [ ${attempt_counter} -le ${max_attempts} ]
