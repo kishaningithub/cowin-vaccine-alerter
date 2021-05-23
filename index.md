@@ -9,7 +9,7 @@ Tamil Nadu / Chennai         | [Join group](https://t.me/joinchat/sew-FrT6W9U0ND
 Tamil Nadu / Tiruvallur      | [Join group](https://t.me/joinchat/y2RY9Zbv1DE4MWI1)
 Tamil Nadu / Chengalpet      | [Join group](https://t.me/joinchat/N1EaOTE3wC81YTM1)
 Tamil Nadu / Kanchipuram     | [Join group](https://t.me/joinchat/OjSllNVqhn01ZmRl)
-Karnataka / Bangalore Rural  | [Join group]()
+Karnataka / Bangalore Rural  | [Join group](https://t.me/joinchat/RuWEkWU1gIdjYTdl)
 Karnataka / Bangalore Urban  | [Join group]()
 Karnataka / BBMP             | [Join group]()
 
