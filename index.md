@@ -1,6 +1,6 @@
 ## CoWin vaccine alerter
 
-Below is a list of [telegram](https://telegram.org/) groups which you can choose to receive real time slot availability alerts based on your location preferences.
+Want to know immediately when a vaccine slot is available? You are in the right place. You just have to join one or more of the below [telegram](https://telegram.org/) groups based on your location preferences.
 
 
 Location                     | Telegram group
