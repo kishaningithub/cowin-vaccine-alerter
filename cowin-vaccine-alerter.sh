@@ -34,15 +34,15 @@ do
   # Tamil Nadu / Chennai - Localized group for pramod's radical illumination community
   poll_cowin_and_send_alert 571 -1001220624259
   # Tamil Nadu / Tiruvallur
-  poll_cowin_and_send_alert 572 -516074907
+  poll_cowin_and_send_alert 572 -1001427832046
   # Tamil Nadu / Chengalpet
-  poll_cowin_and_send_alert 565 -540515683
+  poll_cowin_and_send_alert 565 -1001327448010
   # Tamil Nadu / Kanchipuram
-  poll_cowin_and_send_alert 557 -519869836
+  poll_cowin_and_send_alert 557 -1001400199109
   # Karnataka / Bangalore Rural
-  poll_cowin_and_send_alert 276 -584912971
+  poll_cowin_and_send_alert 276 -1001471158281
   # Karnataka / Bangalore Urban
-  poll_cowin_and_send_alert 265 -579662392
+  poll_cowin_and_send_alert 265 -1001151330402
   # Karnataka / BBMP
   poll_cowin_and_send_alert 294 -1001151330402
   echo "Beginning sleep for ${sleep_time} seconds"
