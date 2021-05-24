@@ -44,7 +44,7 @@ do
   # Karnataka / Bangalore Urban
   poll_cowin_and_send_alert 265 -579662392
   # Karnataka / BBMP
-  poll_cowin_and_send_alert 294 -436889420
+  poll_cowin_and_send_alert 294 -1001151330402
   echo "Beginning sleep for ${sleep_time} seconds"
   sleep ${sleep_time}
   attempt_counter=$((attempt_counter+1))
