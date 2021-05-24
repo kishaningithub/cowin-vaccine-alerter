@@ -1,6 +1,6 @@
 ## CoWin vaccine alerter
 
-Want to know immediately when a vaccine slot is available? You are in the right place. You just have to join one or more of the below [telegram](https://telegram.org/) groups based on your where you live 😊
+Want to know immediately when a vaccine slot is available? You are in the right place. You just have to join one or more of the below [telegram](https://telegram.org/) groups based on where you live 😊
 
 
 Location                     | Telegram group
