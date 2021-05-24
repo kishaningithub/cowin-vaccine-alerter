@@ -30,9 +30,9 @@ attempt_counter=0
 while [ ${attempt_counter} -le ${max_attempts} ]
 do
   # Tamil Nadu / Chennai
-  poll_cowin_and_send_alert 571 -530040865
+  poll_cowin_and_send_alert 571 -1001446207884
   # Tamil Nadu / Chennai - Localized group for pramod's radical illumination community
-  poll_cowin_and_send_alert 571 -441510011
+  poll_cowin_and_send_alert 571 -1001220624259
   # Tamil Nadu / Tiruvallur
   poll_cowin_and_send_alert 572 -516074907
   # Tamil Nadu / Chengalpet
