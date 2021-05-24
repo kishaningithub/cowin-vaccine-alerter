@@ -20,4 +20,3 @@ jobs:
           COWIN_AUTHORIZATION_TOKEN: ${{ secrets.COWIN_AUTHORIZATION_TOKEN }}
           ORGIN_URL: ${{ secrets.ORGIN_URL }}
           USER_AGENT_HEADER: ${{ secrets.USER_AGENT_HEADER }}
-          TELEGRAM_BOT_CHAT_ID: ${{ secrets.TELEGRAM_BOT_CHAT_ID }}
