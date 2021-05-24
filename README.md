@@ -1,6 +1,8 @@
 # Co-WIN vaccine alerter
 This project is a telegram bot which alerts subscribers when vaccination slot is available.
 
+Homepage: https://kishaningithub.github.io/cowin-vaccine-alerter/
+
 ## Supported areas
 See [homepage](https://kishaningithub.github.io/cowin-vaccine-alerter/) to view supported regions more can 
 always be added based on interest
