@@ -13,5 +13,7 @@ Karnataka / Bangalore Rural  | [Join group](https://t.me/joinchat/RuWEkWU1gIdjYT
 Karnataka / Bangalore Urban  | [Join group](https://t.me/joinchat/ggcxcb7UkLhhNzc9)
 Karnataka / BBMP             | [Join group](https://t.me/joinchat/WP9zcbBWO2NjNTA1)
 
-If you want add a new location to this list, kindly submit a request for the same [here](https://github.com/kishaningithub/cowin-vaccine-alerter/issues/new)
+### Need something more?
+- [Add new location(s)](https://github.com/kishaningithub/cowin-vaccine-alerter/issues/new?assignees=&labels=enhancement&template=add-new-location-.md&title=Add+new+location)
+- [Submit Bugs/Feedback/Other feature requests](https://github.com/kishaningithub/cowin-vaccine-alerter/issues/new)
 
